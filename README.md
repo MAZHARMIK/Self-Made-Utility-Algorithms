@@ -3,6 +3,8 @@
 # Useful-Algorithms
 Self made algorithms for different fields
 
-1) Accordion : 
-          a) accordion_creator.js
-          b) accordion_index.html
+<h3>1) Accordion :</h3>
+          <ul>
+          <li><a href="https://github.com/MAZHARMIK/Useful-Algorithms/blob/master/accordion_creator.js">accordion_creator.js</a></li>
+          <li><a href="https://github.com/MAZHARMIK/Useful-Algorithms/blob/master/accordion_index.html">accordion_index.html</a></li>
+          </ul>
