@@ -5,6 +5,9 @@ Self made algorithms for different fields
 
 <h3>1) Accordion :</h3>
           <ul>
-          <li><a href="https://github.com/MAZHARMIK/Useful-Algorithms/blob/master/accordion_creator.js">accordion_creator.js</a></li>
-          <li><a href="https://github.com/MAZHARMIK/Useful-Algorithms/blob/master/accordion_index.html">accordion_index.html</a></li>
+          <li><a href="https://github.com/MAZHARMIK/Useful-Algorithms/blob/master/accordion_creator.js">accordion_creator.js</a>: This contains the backend javascript file which converts a nested JSON or JS object in the format which is accepted by jquery-ui Accordion. For more details about the format which is accepted by jquery-ui, please visit this <a href="https://jqueryui.com/accordion/">Link-Accordion|Jquery UI :heavy_check_mark:</a></li>
+          <li><a href="https://github.com/MAZHARMIK/Useful-Algorithms/blob/master/accordion_index.html">accordion_index.html</a>: This contains the frontend HTML file which shows the result.</li>
           </ul>
+          
+You can simply copy pase the .html and .js files and run on any online platform or on your local computer (having internet connection) to see the result.
+Please click here to see the Demo : <a href="https://jsfiddle.net/Mazhar_MIK/swz8g9do/">Link :heavy_check_mark:</a>
