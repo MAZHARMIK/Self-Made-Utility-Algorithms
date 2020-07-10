@@ -11,3 +11,9 @@ Self made algorithms for different fields
           
 You can simply copy pase the .html and .js files and run on any online platform or on your local computer (having internet connection) to see the result.
 Please click here to see the Demo : <a href="https://jsfiddle.net/Mazhar_MIK/swz8g9do/">Link :heavy_check_mark:</a>
+
+<h3>2) Self Made JS Fiddles :</h3>
+          <ul>
+          <li><a href="https://github.com/MAZHARMIK/Self-Made-Utility-Algorithms/blob/master/self-made%20Js-Fiddles%20(Link)">self-made Js-Fiddles</a>: This contains the link which has my js fiddles that can be used/integrated in many applications easily.
+          </li>
+          </ul>
